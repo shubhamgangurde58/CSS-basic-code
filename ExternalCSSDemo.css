@@ -1,0 +1,15 @@
+ /* tr{
+    color:aqua;
+}
+td{
+    color:red;
+} */
+
+
+* {
+    color: red;
+}
+
+table{
+    background-color:rgb(149, 218, 250);
+} 
